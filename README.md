@@ -52,3 +52,7 @@ I approached the project by breaking down the requirements, identifying design c
 The completed Software Design Document includes the application's requirements, design constraints, UML domain model, operating platform evaluations, and architectural recommendations.
 
 The document demonstrates the progression from initial software requirements to a proposed distributed system architecture.
+
+## Software Design Document
+
+[View Completed Software Design Document](CS230_Software_Design_Document.pdf)
